@@ -2,7 +2,7 @@ const mongo = require('mongodb');
 
 const MongoClient = mongo.MongoClient;
 
-const MONGO_URL = "mongodb+srv://Nidhi:Knmietm4@nidhi.pezijk3.mongodb.net/?retryWrites=true&w=majority&appName=Nidhi";
+const MONGO_URL = "";
 
 let _db;
 
